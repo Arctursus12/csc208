@@ -5,23 +5,23 @@ Links to the specific assignments, organized by week, will be added below. Every
 ## Assignments
 - February 3rd, 2025 – [(Classwork)](https://github.com/Arctursus12/csc208/blob/main/ch0_preliminaries/latex_experiments1.md) [(Homework)](https://github.com/Arctursus12/csc208/blob/main/ch0_preliminaries/WhatIsComputerScience.md)
 
-## A Wee Bit of LaTeX – Taken from course repository
+## A Wee Bit of LaTeX
 
 | Operator     | Command          | Output       |
 |--------------|------------------|--------------|
-| AND          | \$\\land\$       | $\land$      |
-| OR           | \$\\lor\$        | $\lor$       |
-| NOT          | \$\\lnot\$       | $\lnot$      |
-| XOR          | \$\\oplus\$      | $\oplus$     |
-| THEREFORE    | \$\\therefore\$  | $\therefore$ |
-| IMPLIES      | \$\\implies\$    | $\implies$   |
-| IMPLIED BY   | \$\\impliedby\$  | $\impliedby$ |
-| IFF          | \$\\iff\$        | $\iff$       |
-| IN           | \$\\in\$         | $\in$        |
-| SQUARE ROOT  | \$\\sqrt{n}\$    | $\sqrt{n}$   |
-| UNION        | \$\\cup\$        | $\cup$       |
-| INTERSECTION | \$\\cap\$        | $\cap$       |
-| VERTICAL BAR | \$\\vert\$       | $\vert$      |
+| AND          | `$\land$`        | $\land$      |
+| OR           | `$lor$`          | $\lor$       |
+| NOT          | `$\lnot$`        | $\lnot$      |
+| XOR          | `$\oplus$`       | $\oplus$     |
+| THEREFORE    | `$\therefore$`   | $\therefore$ |
+| IMPLIES      | `$\implies$`     | $\implies$   |
+| IMPLIED BY   | `$\impliedby$`   | $\impliedby$ |
+| IFF          | `$\iff$`         | $\iff$       |
+| IN           | `$\in$`          | $\in$        |
+| SQUARE ROOT  | `$\sqrt{n}$`     | $\sqrt{n}$   |
+| UNION        | `$\cup$`         | $\cup$       |
+| INTERSECTION | `$\cap$`         | $\cap$       |
+| VERTICAL BAR | `$\vert$`        | $\vert$      |
 
 ## Resources – Taken from course repository
 
