@@ -1,0 +1,1 @@
+## ["I'm not a real scientist, and that's okay"](https://www.scientificamerican.com/blog/guest-blog/im-not-a-real-scientist-and-thats-okay/) – Notes/Summary
