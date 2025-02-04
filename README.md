@@ -3,7 +3,7 @@ CSC 208 (2025) Course repository.
 Links to the specific assignments, organized by week, will be added below. Every chapter/assignment will include a markdown file containing some relevant info.  
 
 ## Assignments
-- February 3rd, 2025 – [(Classwork)](https://github.com/Arctursus12/csc208/blob/main/ch0_preliminaries/latex_experiments1.md) [(Homework)](https://github.com/Arctursus12/csc208/blob/main/ch0_preliminaries/WhatIsComputerScience.md)
+- February 3rd, 2025 – ([Classwork](https://github.com/Arctursus12/csc208/blob/main/ch0_preliminaries/latex_experiments1.md)) ([Homework](https://github.com/Arctursus12/csc208/blob/main/ch0_preliminaries/WhatIsComputerScience.md))
 
 ## A Wee Bit of LaTeX
 
