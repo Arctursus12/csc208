@@ -3,7 +3,7 @@ CSC 208 (2025) Course repository.
 Links to the specific assignments, organized by week, will be added below. Every chapter/assignment will include a markdown file containing some relevant info.  
 
 ## Assignments
-- [February 3rd, 2025]()
+- February 3rd, 2025 – [(Classwork)]() [(Homework)]()
 
 ## A Wee Bit of LaTeX – Taken from course repository
 
