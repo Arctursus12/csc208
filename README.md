@@ -23,8 +23,9 @@ Links to the specific assignments, organized by week, will be added below. Every
 | INTERSECTION | `$\cap$`         | $\cap$       |
 | VERTICAL BAR | `$\vert$`        | $\vert$      |
 
-## Resources – Taken from course repository
+## Resources – Partially taken from course repository
 
+* [Github Markdown](https://github.com/mattcone/markdown-guide/tree/master)
 * [Writing mathematical expressions](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions)
 * [Logic operators (And, Or, Not, and Xor) in LaTeX](https://latexdoc.com/logic-operators-in-latex/)
 * [KaTeX Support Table](https://katex.org/docs/support_table.html)
