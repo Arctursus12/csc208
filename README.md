@@ -4,6 +4,7 @@ Links to the specific assignments, organized by week, will be added below. Every
 
 ## Assignments
 - February 3rd, 2025 – ([Classwork](https://github.com/Arctursus12/csc208/blob/main/ch0_preliminaries/latex_experiments1.md)) ([Homework](https://github.com/Arctursus12/csc208/blob/main/ch0_preliminaries/WhatIsComputerScience.md))
+- February 6th, 2025 – ([Classwork/Homework](https://github.com/Arctursus12/csc208/blob/main/ch0_preliminaries/ch0_notes.md))
 
 ## A Wee Bit of LaTeX
 
